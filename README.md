@@ -2,7 +2,8 @@
 
 Trabajo realizado en conjunto con Marco Camargo
 
-Cr: a Juanito el master que nos ayudó a entender lo más dificil 
+Cr: a Juanito el master que nos ayudó a entender y resolver lo que no lograbamos entender.
+Muchas gracias
 
 Getting Started with Create React App
 
