@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+Trabajo realizado en conjunto con Marco Camargo
+
+Cr: a Juanito el master que nos ayudó a entender lo más dificil 
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
